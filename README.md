@@ -2,6 +2,10 @@
 ## 프로젝트명 : 인천광역시 교통 약자 지도
 ### 기존의 지도 어플리케이션은 '교통약자'를 위한 편한 UI가 마련되어 있지 않으므로, 교통약자를 위한 여러 서비스를 편리하게 제공할 수 있는 서비스를 개발하였다.
 
+### 발표 및 시연 영상 :
+[![시연 영상](https://img.youtube.com/vi/4n7MW62arGU/0.jpg)](https://www.youtube.com/watch?v=4n7MW62arGU)
+
+
 ### 사용한 API :
 티맵 -> 티맵 API(보행자 경로안내/ 지오코딩/ 장소(POI) 통합 검색)
 
@@ -30,5 +34,6 @@
 
 <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=#0052CC" /> **>>** [https://trello.com/b/zhB5S84P/main](https://trello.com/b/zhB5S84P/main)
 ---
+
 
 
